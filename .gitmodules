@@ -4,3 +4,9 @@
 [submodule "3rd/detours"]
 	path = 3rd/detours
 	url = https://github.com/microsoft/Detours
+[submodule "3rd/lua/luajit"]
+    path = 3rd/lua/luajit
+    url = https://github.com/LuaJIT/LuaJIT
+[submodule "3rd/lua/luajit2"]
+    path = 3rd/lua/luajit2
+    url = https://github.com/openresty/luajit2
